@@ -80,7 +80,7 @@ It will invoke the nclaunch window for functional simulation we can compile,elab
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure 
 
 Click the cds.lib file and save the file by clicking on Save option 
-![Screenshot 2024-10-21 111704](https://github.com/user-attachments/assets/2731f880-879f-49db-a7be-06fc6647a436)
+![Screenshot 2024-11-21 095017](https://github.com/user-attachments/assets/68a4c9b4-db78-4833-8a03-5e6c59792a06)
 
 ### Fig 4:cds.lib file Creation
 
@@ -103,7 +103,7 @@ Left side you can see the HDL files. Right side of the window has worklib and sn
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation .
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
-![Screenshot 2024-10-21 111815](https://github.com/user-attachments/assets/1099ba94-0f0f-4299-adfc-99fad72b65c7)
+![Screenshot 2024-11-21 095201](https://github.com/user-attachments/assets/cec9c150-9d6b-4142-8b89-074f7d38e2ec)
 
 ### Fig 6: Nclaunch Window
 
@@ -162,7 +162,7 @@ Outputs: Elaborate database updated in mapped library if successful, generates r
 5.It also establishes net connectivity and prepares all of this for simulation
 
 After elaboration the file will come under snapshot. Select the test bench and simulate it.
-![Screenshot 2024-10-21 112157](https://github.com/user-attachments/assets/e54e8bc0-46b4-48aa-b67c-a6ec22bef57a)
+![Screenshot 2024-11-21 095201](https://github.com/user-attachments/assets/cec9c150-9d6b-4142-8b89-074f7d38e2ec)
 
 ## Fig 8: Elaboration Launch Option
 
@@ -177,13 +177,13 @@ Outputs: Simulation log file, waveforms for debugging
 Simulation allow to dump design and test bench signals into a waveform 
 
 Steps for simulation – Run the simulation command with simulator options
-![Screenshot 2024-10-21 112437](https://github.com/user-attachments/assets/d6d0c2e0-5b7b-4978-b63b-c4fa4195c231)
+![Screenshot 2024-11-21 095230](https://github.com/user-attachments/assets/1586b188-ff56-44ee-bd98-d36400255269)
 
 ## Fig 9: Design Browser window for simulation
-![Screenshot 2024-10-21 113705](https://github.com/user-attachments/assets/4e9a081a-5db2-41d6-a682-8b3a9918fbbf)
+![Screenshot 2024-11-21 095252](https://github.com/user-attachments/assets/8d15c148-8a3d-45cb-a1f4-828446b4b178)
 
 ## Fig 10:Simulation Waveform Window
-![Screenshot 2024-10-21 112654](https://github.com/user-attachments/assets/ab482d4b-1d2d-432e-9474-516babd93920)
+![Screenshot 2024-11-21 095308](https://github.com/user-attachments/assets/b85f679c-06d3-48db-9bca-01c3b69f646e)
 
 ## Fig 11:Simulation Waveform Window
 
